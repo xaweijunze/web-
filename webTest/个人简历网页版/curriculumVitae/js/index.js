@@ -1,0 +1,4 @@
+function changeColor(){
+    alert(this);
+};
+
